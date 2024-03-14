@@ -1,0 +1,24 @@
+table{
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    font-size: large;
+    background-color: brown
+    
+
+}
+td{
+    background-color: aqua;
+}
+.td1{
+    background-color: aquamarine;
+}
+
+
+    td:hover{
+background-color: burlywood;
+size: 20px;
+    }
+  .td2:hover{
+background-color: aqua;
+  }
